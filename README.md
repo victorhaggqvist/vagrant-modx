@@ -1,3 +1,6 @@
+# Notice
+This repository is no longer maintained
+
 # Vagrant-MODx
 
 MODx bootstrap for Vagrant based on https://github.com/scotch-io/scotch-box.
